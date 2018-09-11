@@ -1,0 +1,67 @@
+Subject: [ANN] Open Source Music FM Synthesizer Challenge starts September 15th, 2018
+
+
+Calling out to all musicians and Open Source aficionados!
+
+Open Source Audio Meeting Cologne [1] proudly presents:
+
+The OPEN SOURCE MUSIC FM SYNTHESIZER CHALLENGE
+
+    https://fmchallenge.osamc.de/
+
+What:
+
+Install one or several of the Open Source FM Synthesizers we selected
+[2], make an awesome track using only these synthesizers as sound
+sources, upload [3] it to archive.org under a Creative Commons license
+and submit it [4] into the competition.
+
+When:
+
+The competition starts on *September 15th, 2018* and runs for one month
+until the end of *October 14th, 2018*.
+
+Who:
+
+*Everybody* (i.e. every natural person) can enter the competition. All
+selected synthesizers are Free Software [5] and getting started with
+music production using Open Source software [6] is easy and free to
+everyone!
+
+Winning:
+
+The winner of the competition is selected by *public vote* [7].
+
+Voting starts on *October 15th, 2018* and is open for *ten days*. The
+entry receiving the most points wins and will be presented at the second
+*Sonoj Convention* [8] in Cologne on the weekend of October 27th/28th.
+Second and third places will be awarded as well.
+
+The winners will only receive fame and glory, but the community as a
+whole also wins!
+
+Before you enter the competition, be sure to check out the detailed
+rules [9]!
+
+Please share this announcement to all interested parties. If you wish to
+sponsor prizes for the competition winners, please contact the organizer!
+
+
+*Let's make some awesome music using Open Source FM Synthesizers!*
+
+
+Christopher Arndt
+Open Source Audio Meeting Cologne
+https://fmchallenge.osamc.de/
+fmchallenge@osamc.de
+
+
+[1] https://osamc.de/
+[2] https://fmchallenge.osamc.de/fmsynths/
+[3] https://archive.org/create/
+[4] https://fmchallenge.osamc.de/submit/
+[5] https://www.gnu.org/philosophy/free-sw.html
+[6] https://libremusicproduction.com/
+[7] https://fmchallenge.osamc.de/vote/
+[8] https://sonoj.org/
+[9] https://fmchallenge.osamc.de/rules/

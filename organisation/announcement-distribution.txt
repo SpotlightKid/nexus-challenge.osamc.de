@@ -1,0 +1,35 @@
+* matrixsynth.com  - matrixsynth@gmail.com done: via email
+
+* synthtopia.com - http://www.synthtopia.com/feedback/ - done
+
+* libremusicproduction.com https://libremusicproduction.com/contact
+  done (error on submisson?: re-check thursday)
+
+* https://linuxmusicians.com/
+  Subforum "New Linux Music News": https://linuxmusicians.com/viewforum.php?f=24
+  done: https://linuxmusicians.com/viewtopic.php?f=24&t=18955
+
+* https://www.musiker-board.de - Subforum "Tasteninstrumente" oder allgem. News?
+  done: https://www.musiker-board.de/threads/die-open-source-music-fm-synthesizer-challenge-startet-am-15-september-2018.683116
+
+* KVR Audio Forums:
+
+  Subforum One-Synth-Challenge: General discussion thread: http://www.kvraudio.com/forum/viewtopic.php?p=4305672
+  done: http://www.kvraudio.com/forum/viewtopic.php?f=1&t=301957&p=7161776#p7161776
+
+  Subforum Everything Else (Music related), Thread Competitions - Post Links Here:
+  https://www.kvraudio.com/forum/viewtopic.php?f=4&t=354548
+  done: https://www.kvraudio.com/forum/viewtopic.php?f=4&t=354548&start=240#p7162409
+
+* Synthesizer Projekte:
+
+  * Dexed - Kontaktadresse? done: https://github.com/asb2m10/dexed/issues/161
+  * 6pm - Kontaktadresse Michel Vergnaud? done: https://sourceforge.net/p/mv-6pm/discussion/general/thread/85aa738a/
+  * Hexter - Sean Bolton <sean@smbolton.com>  - done (via email)
+  * DX10 - ???
+  * JuceOPL - Kontaktadresse Bruce Sutherland? done: https://github.com/bsutherland/JuceOPLVSTi/issues/70
+  * OpulenZ - LMMS Forum: https://lmms.io/forum/memberlist.php?mode=contactadmin - done
+  * Oxe Fm Synth: Kontaktadresse? done: Kommentar auf https://oxesoft.wordpress.com/ (comment still in moderation queue as of 2018-09-07)
+
+* Twitter
+  done: https://twitter.com/TheUnifaun/status/1037088027577921537

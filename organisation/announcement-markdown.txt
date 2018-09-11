@@ -1,0 +1,43 @@
+Subject: Open Source Music FM Synthesizer Challenge starts September 15th, 2018
+
+[Open Source Audio Meeting Cologne](https://osamc.de/) proudly presents:
+
+The OPEN SOURCE MUSIC FM SYNTHESIZER CHALLENGE
+
+[![BANNER](fm-synth-challenge-banner-880.jpg)](https://fmchallenge.osamc.de/)
+
+**What:**
+
+Install one or several of the [Open Source FM Synthesizers we selected](https://fmchallenge.osamc.de/fmsynths/), make an awesome track using only these synthesizers as sound
+sources, [upload](https://archive.org/create/) it to archive.org under a [Creative Commons license](https://creativecommons.org/choose/) and [submit it](https://fmchallenge.osamc.de/submit/) into the competition.
+
+**When:**
+
+The competition starts on *September 15th, 2018* and runs for one month until the end of *October 14th, 2018*.
+
+**Who:**
+
+*Everybody* (i.e. every natural person) can enter the competition. All selected synthesizers are [Free Software](https://www.gnu.org/philosophy/free-sw.html) and getting started with [music production using Open Source software](https://libremusicproduction.com/) is easy and free to everyone!
+
+**Winning:**
+
+The winner of the competition is selected by *general vote*. Everybody can vote (email registration required) and votes are confidential.
+
+Voting starts on *October 15th, 2018* and is open for *ten days*. The entry receiving the most points wins and will be presented at the second [Sonoj Convention](https://sonoj.org/) in Cologne on the weekend of October 27th/28th. Second and third places will be awarded as well.
+
+The winners will only receive fame and glory, but the community as a whole also wins!
+
+**Rules:**
+
+Before you enter the competition, be sure to check out the [detailed rules](https://fmchallenge.osamc.de/rules/)!
+
+Please share this announcement to all interested parties. If you wish to sponsor prizes for the competition winners, please contact the organizer!
+
+
+*Let's make some awesome music using Open Source FM Synthesizers!*
+
+
+Christopher Arndt<br />
+Open Source Audio Meeting Cologne<br />
+https://fmchallenge.osamc.de/<br />
+fmchallenge@osamc.de

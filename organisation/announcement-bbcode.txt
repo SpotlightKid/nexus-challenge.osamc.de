@@ -1,0 +1,39 @@
+Subject: [ANN] Open Source Music FM Synthesizer Challenge starts September 15th, 2018
+
+[url=https://osamc.de/]Open Source Audio Meeting Cologne[/url] proudly presents:
+
+[b][size=150]The OPEN SOURCE MUSIC FM SYNTHESIZER CHALLENGE[/size][/b]
+
+   [size=150] https://fmchallenge.osamc.de/[/size]
+
+[b]What:[/b]
+
+Install one or several of the [url=https://fmchallenge.osamc.de/fmsynths/]Open Source FM Synthesizers we selected[/url], make an awesome track using only these synthesizers as sound sources, [url=https://archive.org/create/]upload[/url] it to archive.org under a Creative Commons license and [url=https://fmchallenge.osamc.de/submit/]submit[/url] it into the competition.
+
+[b]When:[/b]
+
+The competition starts on [b]September 15th, 2018[/b] and runs for one month until the [b]end of October 14th, 2018[/b].
+
+[b]Who:[/b]
+
+[b]Everybody[/b] (i.e. every natural person) can enter the competition. All selected synthesizers are [url=https://www.gnu.org/philosophy/free-sw.html]Free Software[/url] and getting started with music production using [url=https://libremusicproduction.com/]Open Source software[/url] is easy and free to everyone!
+
+[b]Winning:[/b]
+
+The winner of the competition is selected by [b]public vote[/b].
+
+[url=https://fmchallenge.osamc.de/vote/]Voting[/url] starts on [b]October 15th, 2018[/b] and is open for [b]ten days[/b]. The entry receiving the most points wins and will be presented at the second [url=https://sonoj.org/]Sonoj Convention[/url] in Cologne on the weekend of October 27th/28th. Second and third places will be awarded as well.
+
+The winners will only receive fame and glory, but the community as a whole also wins!
+
+Before you enter the competition, be sure to check out [url=https://fmchallenge.osamc.de/rules/]the detailed rules[/url]!
+
+Please share this announcement to all interested parties. If you wish to sponsor prizes for the competition winners, please contact the organizer!
+
+
+[i][size=150]Let's make some awesome music using Open Source FM Synthesizers![/size][/i]
+
+
+Christopher Arndt, Organizer
+Open Source Audio Meeting Cologne
+https://fmchallenge.osamc.de/
