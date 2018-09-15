@@ -27,6 +27,8 @@ represented by its member **Christopher Arndt**.
 
 # A. Submission Rules
 
+**Update 2018-09-15:** clarifiy rules 9 and 10.
+
 1. To enter the competition you **MUST** create an audio track (aka a "piece"), upload the audio
 file to [archive.org](https://archive.org/create/) and submit the link to the track via the
 submission form ([https://fmchallenge.osamc.de/submit/](https://fmchallenge.osamc.de/submit/))
@@ -72,11 +74,22 @@ distortion, etc. or MIDI and control signal generators and processors, but you *
 input.
 
 9. You **MAY NOT** use **any samples or recordings** (not even for e.g. drums or vocals), but you
-**MAY** freeze or bounce tracks to an audio file to save CPU processing power.
+   **MAY** freeze or bounce tracks to an audio file to save CPU processing power.<br/>
+   **To clarify:** no vocals are allowed (unless you synthesize them with FM). The reason is that this
+   competition is about showing your skills with synth sound programming and production. Usually a
+   vocal track has a big impact on the listening experience and not everybody has the voice/talent
+   to lay down a good vocal performance (or access to someone possessing it).<br>
+   Also, you may not sample single sounds of the allowed FM synthesizers and load them into a
+   sampler and sequence them. Recordings are only allowed to bounce a whole track or a sequence
+   to audio to save processing power.
 
 10. You **MAY** use non Open Source Software for recording, sequencing, mixing, mastering and
-preparing the audio track for upload, as long as you follow all the other rules, particularly rule
-*A.6* and *A.8*.
+    preparing the audio track for upload, as long as you follow all the other rules, particularly
+    rule *A.6* and *A.8*.<br/>
+    **To clarify:** if you use a non-OS DAW, you may only use the following types of non-open
+    source signal processors within the DAW: gain, panning, delay, reverb, eq, compressor and
+    limiter. These may be built-in or proprietary plugins, which come with the DAW, when purchased.
+    Any other proprietary plug-ins are *not* allowed.
 
 11. When submitting your entry, you **MUST** list all plug-ins you used for creating your track and
 also any other sequencing, recording and mastering software you used. The competition organizer
