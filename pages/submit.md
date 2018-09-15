@@ -11,9 +11,12 @@
 -->
 
 So you want to enter the competition? That's awesome!<br />
-However, submitting your entry to the competition will only be possible from **15.10.2018 00:00:00
+However, submitting your entry to the competition will only be possible from **15.10.2018**
 UTC** until the deadline on **24.10.2018 23:59:59 UTC** via this page.
 
-*Please check back later!*
+**Notice** Due to unforseen circumstances the submission form will be made available only with
+some delay, but really anytime soon now (TM).
+
+*Please check back tomorrow!*
 
 In the meantime, make sure you check out [the rules](/rules/)!
