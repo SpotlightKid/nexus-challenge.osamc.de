@@ -2,6 +2,7 @@
 .. title: The Competition Rules
 .. slug: rules
 .. date: 2018-09-03 20:09:39 UTC+02:00
+.. updated: 2018-09-18 19:58:17 UTC+02:00
 .. tags:
 .. category:
 .. link:
@@ -27,7 +28,8 @@ represented by its member **Christopher Arndt**.
 
 # A. Submission Rules
 
-**Update 2018-09-15:** clarifiy rules 9 and 10.
+**Update 2018-09-15:** clarified rules 9 and 10.<br />
+**Update 2018-09-18:** added *ADLplug* to the list of allowed synthesizers.
 
 1. To enter the competition you **MUST** create an audio track (aka a "piece"), upload the audio
 file to [archive.org](https://archive.org/create/) and submit the link to the track via the
@@ -57,6 +59,7 @@ BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) or more permissive
 alphabetical order):
 
     * [6PM](http://sourceforge.net/projects/mv-6pm/) by Michel Vergnaud
+    * [ADLplug](https://github.com/jpcima/ADLplug) by Jean Pierre Cimalando
     * [Dexed](http://asb2m10.github.io/dexed/) by Pascal Gauthier et al.
     * [DX10](http://mda.smartelectronix.com/) by mda
     * [Hexter](http://smbolton.com/hexter.html) by Sean Bolton

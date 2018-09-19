@@ -2,6 +2,7 @@
 .. title: The Challenge FM Synthesizers
 .. slug: fmsynths
 .. date: 2018-09-03 23:32:57 UTC+02:00
+.. updated: 2018-09-18 19:50:37 UTC+02:00
 .. tags:
 .. category:
 .. link:
@@ -23,13 +24,14 @@ We have selected these because:
 * They come with readily usable presets or you can find them on the net.
 * And, of course, because they are **Open Source**!
 
+**Update 2018-09-18:** added *ADLplug*.
+
 **Quick links:**
 
 [TOC]
 
 
 # 6PM
-
 
 A phase modulation (PM) synthesizer
 
@@ -57,6 +59,27 @@ Sound demos:
 Patches:
 
 * [http://linuxsynths.com/6PMPatchesDemos/6pm.html](http://linuxsynths.com/6PMPatchesDemos/6pm.html)
+
+
+# ADLplug
+
+FM synthesizer based on Yamaha OPL3 (YMF262) and OPN2 (YM2612) sound chip emulations
+
+[![ADLplug](/galleries/fmsynths/adlplug.thumbnail.png)](/galleries/fmsynths/adlplug.png)
+
+**Formats:** LV2, VST, Standalone (JACK)<br />
+**GUI:** Yes (JUCE)<br />
+**License:** Boost Software License
+
+Homepage:
+:   [https://github.com/jpcima/ADLplug](https://github.com/jpcima/ADLplug)
+
+Source code repository:
+:   [https://github.com/jpcima/ADLplug](https://github.com/jpcima/ADLplug)
+
+AUR package:
+:   OPL3 variant: [https://aur.archlinux.org/packages/adlplug-git/](https://aur.archlinux.org/packages/adlplug-git/)
+:   OPN2 variant: [https://aur.archlinux.org/packages/opnplug-git/](https://aur.archlinux.org/packages/opnplug-git/)
 
 
 # Dexed
