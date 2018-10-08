@@ -16,7 +16,7 @@ for the winner of the competition!
 
 # First Prize
 
-One **MOD Duo** (Developer Unit) from **MOD Devices**
+One **MOD Duo** from **MOD Devices**
 
 The [MOD Duo](https://www.moddevices.com/products/mod-duo) is a **multi-effect**, **simulator**,
 **synth** and **midi station** all-in-one in a compact guitar **pedal-style unit**, capable of
@@ -27,9 +27,6 @@ of sounds.
 
 The MOD Duo is sponsored by [MOD Devices](https://www.moddevices.com), a Berlin-based company
 and creator of the MOD technology.
-
-The unit they give away as a prize is a *Developer Unit*, which has the same features as the
-MOD Duo you can get in stores, but with an enclosure from the original 2016 Kickstarter campaign.
 
 The unit will be shipped to the winner for free within Europe.
 
