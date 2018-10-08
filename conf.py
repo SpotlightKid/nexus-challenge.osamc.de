@@ -1144,9 +1144,9 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # <script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
 # <!-- End of social buttons -->
 # """
-SOCIAL_BUTTONS_CODE = {
+SOCIAL_BUTTONS_CODE = (
     'https://twitter.com/osamCologne',
-}
+)
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
