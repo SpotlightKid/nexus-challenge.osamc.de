@@ -65,9 +65,10 @@ material (e.g. audio tracks, stems, presets, project files etc.) for the free an
 
 # Prizes
 
-* There are no monetary or physical prizes (yet?).
+* We have an aewsome sponsored prize for the winner of the competition. Check out the
+  [Prizes](/prizes) page for details.
 
-* Of course, the winner receives eternal glory in the eyes of the Open Source Music community
+* Of course, the winner also receives eternal glory in the eyes of the Open Source Music community
   and the incredible feeling of achievement and creative satisfaction!
 
 * Also, the winner entry, and the second and third placements will be presented at the second
