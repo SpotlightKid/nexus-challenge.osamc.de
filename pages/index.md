@@ -67,7 +67,7 @@ material (e.g. audio tracks, stems, presets, project files etc.) for the free an
 
 # Prizes
 
-* We have an aewsome sponsored prize for the winner of the competition. Check out the
+* We have an awesome sponsored prize for the winner of the competition. Check out the
   [Prizes](/prizes) page for details.
 
 * Of course, the winner also receives eternal glory in the eyes of the Open Source Music community
