@@ -34,8 +34,10 @@ free to everyone!
 *Winning:* The winner of the competition is selected by **general vote**. [Voting](/vote/) starts on
 **October 15th, 2018** and is open for **ten days**. The entry receiving the most points wins and
 will be presented at the second [Sonoj Convention](https://sonoj.org/) in Cologne on the weekend of
-October 27th/28th. Second and third places will be awarded as well. The winners will only receive
-fame and glory, but the community as a whole also wins!
+October 27th/28th. Second and third places will be awarded as well. We have a sponsored price for
+the first place (see the [prizes](/prizes) page), more prizes for the second and third place might
+be forthcoming (no promise). Additionally, the winners will receive fame and glory :), and the
+community as a whole also wins!
 
 Before you enter the competition, be sure to check out [the detailed rules](/rules/)!
 
