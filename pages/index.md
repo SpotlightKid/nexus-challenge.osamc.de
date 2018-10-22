@@ -34,10 +34,10 @@ free to everyone!
 *Winning:* The winner of the competition is selected by **general vote**. [Voting](/vote/) starts on
 **October 15th, 2018** and is open for **ten days**. The entry receiving the most points wins and
 will be presented at the second [Sonoj Convention](https://sonoj.org/) in Cologne on the weekend of
-October 27th/28th. Second and third places will be awarded as well. We have a sponsored price for
-the first place (see the [prizes](/prizes) page), more prizes for the second and third place might
-be forthcoming (no promise). Additionally, the winners will receive fame and glory :), and the
-community as a whole also wins!
+October 27th/28th. Second and third places will be awarded as well. We have sponsored prizes for
+the first, second and third place (see the [prizes](/prizes) page) and also a prize for one voter
+selected by draw. Additionally, the winners will receive fame and glory :), and the community as a
+whole also wins!
 
 Before you enter the competition, be sure to check out [the detailed rules](/rules/)!
 
@@ -67,8 +67,8 @@ material (e.g. audio tracks, stems, presets, project files etc.) for the free an
 
 # Prizes
 
-* We have an awesome sponsored prize for the winner of the competition. Check out the
-  [Prizes](/prizes) page for details.
+* We have an awesome sponsored first prize for the winner of the competition and also great prizes
+  for the second and third place. Check out the [Prizes](/prizes) page for details.
 
 * Of course, the winner also receives eternal glory in the eyes of the Open Source Music community
   and the incredible feeling of achievement and creative satisfaction!

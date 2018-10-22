@@ -11,7 +11,10 @@
 -->
 
 We are very happy to announce, that we have a very desirable and valuable hardware prize waiting
-for the winner of the competition!
+for the winners of the competition!
+
+The winners of the first, second and third prize will be announced at the
+[Sonoj Convention](https://sonoj.org) and their fame and glory spread over the internets.
 
 
 # First Prize
@@ -33,11 +36,18 @@ The unit will be shipped to the winner for free within Europe.
 
 # Second and Third Prize
 
-Unfortunately, we don't offer any prizes for the second and third places yet, though they will be
-announced at the [Sonoj Convention](https://sonoj.org) too and their fame and glory spread over the
-internets.
+The second and third entry will each get **one license** for the [Cadmium](https://lhiaudio.com/)
+software synthesizer by **LHI Audio**. The synthesizer is available in VST format (AU and LV2
+coming soon), runs on Linux, Windows, and macOS and the license comes in form of a non-personalized
+voucher (so - should you use only Open Source software - it can be given away to somebody else).
 
-Want to sponsor a prize? Please [contact us](mailto:fmchallenge@osamc.de)!
+
+# Prize Draft for Voters
+
+**One license** for **Cadmium** will be given away to a voter in the competition selected by draft.
+The draft will be also held at the Sonoj Convention. Winners of the first to third place are
+excluded from the draft. To be able to claim your prize, you must give a valid email address when
+registering to vote.
 
 
 # About the MOD Duo
