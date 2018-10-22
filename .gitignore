@@ -3,3 +3,6 @@ output/*
 __pycache__
 state_data.json
 .doit.db
+
+# Geany editor project files
+*.geany
