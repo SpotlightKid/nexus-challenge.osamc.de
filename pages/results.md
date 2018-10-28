@@ -2,10 +2,10 @@
 .. title: Results
 .. slug: results
 .. date: 2018-10-28 13:08:03 UTC+01:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 -->
 
@@ -24,7 +24,7 @@ them.
 You can listen to [all entries here](/list).
 
 You can also download an archive of all tracks in FLAC format,
-including a playlist and meta data for all track:
+including a playlist and meta data for all tracks:
 
 [Open Source Music FM Synthesizer Challenge 2018.zip](/downloads/Open Source Music FM Synthesizer Challenge 2018.zip)
 
