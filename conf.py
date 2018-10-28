@@ -139,8 +139,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "The Challenge"),
         ("/rules/", "Rules"),
-        ("/submit/", "Enter"),
-        ("/vote/", "Voting"),
+        ("/list/", "Entries"),
+        ("/results/", "Results"),
         ("/prizes/", "Prizes"),
         ("/fmsynths/", "FM Synths"),
         ("mailto:fmchallenge@osamc.de", "Contact"),
@@ -252,7 +252,7 @@ DATE_FANCINESS = 0
 # not set the default Nikola mapping is used.
 
 # LOCALES = {}
-# LOCALE_FALLBACK = None
+LOCALE_FALLBACK = 'C'
 # LOCALE_DEFAULT = None
 
 # One or more folders containing files to be copied as-is into the output.

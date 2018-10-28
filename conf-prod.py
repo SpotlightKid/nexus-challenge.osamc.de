@@ -9,6 +9,6 @@ SITE_URL = "https://fmchallenge.osamc.de/"
 DEPLOY_COMMANDS = {
     'default': [
         "rsync -rltDv --update --checksum --delete output/* "
-        "chrisarndt.de:/home/www/fmchallenge.osamc.de/htdocs",
+        "chris@chrisarndt.de:/home/www/fmchallenge.osamc.de/htdocs",
     ]
 }
