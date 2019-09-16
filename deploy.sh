@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VENV="fmchallenge"
+VENV="nexus-challenge"
 CONFIG="conf-prod.py"
 PORT="8001"
 VENV_DIR="${WORKON_HOME:-$HOME/.virtualenvs}/$VENV"

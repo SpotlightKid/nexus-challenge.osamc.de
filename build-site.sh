@@ -4,8 +4,8 @@ export PYENV_VIRTUALENV_DISABLE_PROMPT=1
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
-VENV="fmchallenge"
-PROJECT_DIR="$HOME/work/sites/fmchallenge.osamc.de"
+VENV="nexus-challenge"
+PROJECT_DIR="$HOME/work/sites/nexus-challenge.osamc.de"
 HTDOCS_DIR="$HOME/htdocs"
 CONFIG="conf-prod.py"
 

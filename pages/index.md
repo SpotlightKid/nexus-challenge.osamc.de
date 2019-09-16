@@ -42,7 +42,7 @@ whole also wins!
 Before you enter the competition, be sure to check out [the detailed rules](/rules/)!
 
 Please share this announcement to all interested parties. If you wish to sponsor prizes for the
-competition winners, please [contact](mailto:fmchallenge@osamc.de) the organizers!
+competition winners, please [contact](mailto:nexus-challenge@osamc.de) the organizers!
 
 
 # Goals of the Competition
@@ -80,7 +80,7 @@ material (e.g. audio tracks, stems, presets, project files etc.) for the free an
 * We will work with Open Source community sites to promote the contest as a whole and the winning
   entry in particular.
 
-* If you want to sponsor a prize, please get in [contact](mailto:fmchallenge@osamc.de) with the
+* If you want to sponsor a prize, please get in [contact](mailto:nexus-challenge@osamc.de) with the
   organizer of the competition. Please note that we can't ship physical prizes, so vouchers for
   online (music) shops, trainings, mixing and mastering services, or services related to the
   promotion of the competition entries or the contestants would probably work best. But we're open

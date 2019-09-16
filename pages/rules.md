@@ -33,7 +33,7 @@ represented by its member **Christopher Arndt**.
 
 1. To enter the competition you **MUST** create an audio track (aka a "piece"), upload the audio
 file to [archive.org](https://archive.org/create/) and submit the link to the track via the
-submission form ([https://fmchallenge.osamc.de/submit/](https://fmchallenge.osamc.de/submit/))
+submission form ([https://nexus-challenge.osamc.de/submit/](https://nexus-challenge.osamc.de/submit/))
 between the start of the competition (**15.09.2018 00:00:00 UTC**) and before the dead line for
 submission (**14.10.2018 23:59:59 UTC**). Every person can enter the competition with
 **one entry** only. The representative of the competition organizer is excluded from entering the
@@ -137,7 +137,7 @@ to one (1) point.
 4. The vote may be changed (but not retracted completely) as often as desired during the voting
 period.
 
-5. Voters must go to [https://fmchallenge.osamc.de/vote/](https://fmchallenge.osamc.de/vote/) and
+5. Voters must go to [https://nexus-challenge.osamc.de/vote/](https://nexus-challenge.osamc.de/vote/) and
 provide a **valid email address**, which will be validated during the voting process by sending a
 personalized confirmation link to said email address. The voter must open this link to get access
 to the voting form. This link may also be used to change the vote until the end of the voting

@@ -18,15 +18,15 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Open Source Audio Meeting Cologne"  # (translatable)
-BLOG_TITLE = "Open Source Music FM Synthesizer Challenge"  # (translatable)
+BLOG_TITLE = "Open Source Music Nexus Challenge"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://fmchallenge.osamc.de/"
+SITE_URL = "https://nexus-challenge.osamc.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://fmchallenge.osamc.de/"
-BLOG_EMAIL = "fmchallenge@osamc.de"
-BLOG_DESCRIPTION = "Let's create awesome music with Open Source FM Synthesizers!"  # (translatable)
+# BASE_URL = "https://nexus-challenge.osamc.de/"
+BLOG_EMAIL = "nexus-challenge@osamc.de"
+BLOG_DESCRIPTION = "Let's create awesome music with Open Source!"  # (translatable)
 # This is the index page for the blog posts, not the main start page of the site!
 INDEX_PATH = "blog"
 
@@ -142,8 +142,8 @@ NAVIGATION_LINKS = {
         ("/list/", "Entries"),
         ("/results/", "Results"),
         ("/prizes/", "Prizes"),
-        ("/fmsynths/", "FM Synths"),
-        ("mailto:fmchallenge@osamc.de", "Contact"),
+        #("/fmsynths/", "FM Synths"),
+        ("mailto:challenge@osamc.de", "Contact"),
         #("/blog/", "Blog"),
         #("/rss.xml", "RSS feed"),
     ),
