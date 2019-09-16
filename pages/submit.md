@@ -1,7 +1,7 @@
 <!--
 .. title: Enter the Competition
 .. slug: submit
-.. date: 2018-09-03 22:04:24 UTC+02:00
+.. date: 2019-09-16 22:46:24 UTC+02:00
 .. tags:
 .. category:
 .. link:
@@ -11,12 +11,9 @@
 -->
 
 So you want to enter the competition? That's awesome!<br />
-However, submitting your entry to the competition will only be possible from **15.09.2018**
-until the deadline on **14.10.2018 23:59:59 UTC** via this page.
+However, submitting your entry to the competition will only be possible from **19.09.2019**
+until the deadline on **18.10.2019 23:59:59 UTC** via this page.
 
-**Notice** Due to unforseen circumstances the submission form will be made available only with
-some delay, but really anytime soon now (TM).
-
-*Please check back tomorrow!*
+*Please check back then!*
 
 In the meantime, make sure you check out [the rules](/rules/)!

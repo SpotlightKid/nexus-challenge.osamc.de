@@ -1,7 +1,7 @@
 <!--
 .. title: The Challenge
 .. slug: index
-.. date: 2018-09-04 19:07:15 UTC+02:00
+.. date: 2019-09-16 21:13:45 UTC+02:00
 .. tags:
 .. category:
 .. link:
@@ -13,36 +13,41 @@
 
 # [Open Source Audio Meeting Cologne](https://osamc.de/) <br />proudly presents:
 
-<!-- The **Open Source Music FM Synthesizer Challenge**! -->
-[![Open Source Music FM Synthesizer Challenge](/img/fm-synth-challenge-banner-880.jpg)](/img/fm-synth-challenge-banner.png)
+<!-- The **Open Source Music Nexus Challenge**! -->
+[![Open Source Music Nexus Challenge](/img/nexus-challenge-banner-880.jpg)](/img/nexus-challenge-banner.png)
 
-> *Let's make some awesome music using Open Source FM Synthesizers!*
+> *Let's make some awesome Open Source music!*
 
-*What:* Install one or several of the Open Source [FM Synthesizers we selected](/fmsynths/), make
-an awesome track using only these synthesizers as sound sources,
-[upload](https://archive.org/create/) it to archive.org under a Creative Commons license and
-[submit it](/submit/) into the competition.
+**What:**
 
-*When:* The competition starts on **September 15th, 2018** and runs for one month until the end of
-**October 14th, 2018**.
+* Make a music track, adhering to the following rules:
+    * The track should be *in-the-style-of* a well-known artist or song of your chosing
+      (but not a cover, remix or blatant copy).
+    * It must incorporate a recording of a physical sound source, which *you made yourself*
+      (e.g. you playing and instrument or singing, or a field recording, etc.).
+    * You may use *only Open Source software* (proprietary DAWs are allowed as an exception).
+* [Upload](https://archive.org/create/) it to archive.org under a Creative Commons license, and
+* [Submit it](/submit/) into the competition.
 
-*Who:* **Everybody** (i.e. every natural person) can enter the competition. All selected
+Before you enter the competition, be sure to check out [the detailed rules](/rules/)!
+
+**When:** The competition starts on **September 19th, 2019** and runs for one month until the end
+of **October 18th, 2019**.
+
+**Who:** **Everybody** (i.e. every natural person) can enter the competition. All selected
 synthesizers are [Free Software](https://www.gnu.org/philosophy/free-sw.html) and getting started
 with [music production using Open Source software](https://libremusicproduction.com/) is easy and
 free to everyone!
 
-*Winning:* The winner of the competition is selected by **general vote**. [Voting](/vote/) starts on
-**October 15th, 2018** and is open for **ten days**. The entry receiving the most points wins and
-will be presented at the second [Sonoj Convention](https://sonoj.org/) in Cologne on the weekend of
-October 27th/28th. Second and third places will be awarded as well. We have sponsored prizes for
-the first, second and third place (see the [prizes](/prizes) page) and also a prize for one voter
-selected by draw. Additionally, the winners will receive fame and glory :), and the community as a
-whole also wins!
-
-Before you enter the competition, be sure to check out [the detailed rules](/rules/)!
+**Winning:** The winner of the competition is selected by **general vote**. [Voting](/vote/) starts
+on **October 19th, 2019** and is open for **seven days**. The entry receiving the most points wins
+and will be presented on at the third [Sonoj Convention](https://sonoj.org/), which takes place on
+the weekend of October 26th / 27th in Cologne. Second and third places will be awarded as well. We
+do not give out phisical prizes, but the winners will receive fame and glory :), and the community
+as a whole also wins!
 
 Please share this announcement to all interested parties. If you wish to sponsor prizes for the
-competition winners, please [contact](mailto:nexus-challenge@osamc.de) the organizers!
+competition winners, please [contact](mailto:challenge@osamc.de) the organizers!
 
 
 # Goals of the Competition
@@ -50,38 +55,38 @@ competition winners, please [contact](mailto:nexus-challenge@osamc.de) the organ
 * To promote and encourage creativity and musicality.
 
 * To promote the use of Open Source software for music production and composition and the awesome
-[Open Source software synthesizers](http://linuxsynths.com) available for everyone, in particular
-the [FM synthesizers we have selected](/fmsynths/) to be used for the competition.
+Open Source software [synthesizers](http://linuxsynths.com/) and
+[effect](https://wiki.thingsandstuff.org/Audio#Effects)
+[plugins](http://linux-sound.org/linux-vst-plugins.html) available for everyone.
 
-* To encourage learning of the principles and application of sound synthesis among musicians, in
-particular synthesis methods beyond the traditional subtractive synthesis, in this case
-[FM synthesis](https://www.soundonsound.com/techniques/introduction-frequency-modulation).
+* To encourage learning of the principles and application of sound design, recording and mixing
+  techniques among musicians.
 
 * To help broaden the audience for Open Source musicians.
 
 * To encourage a culture of sharing and to catalyze the generation of original, liberally licensed
-material (e.g. audio tracks, stems, presets, project files etc.) for the free and remix culture.
+  material (e.g. audio tracks, stems, presets, project files etc.) for the free and remix culture.
 
-* And last, but certainly not the least, to hear some awesome music!
+* And last, but certainly not the least, to hear and enjoy some awesome music!
 
 
 # Prizes
 
-* We have an awesome sponsored first prize for the winner of the competition and also great prizes
-  for the second and third place. Check out the [Prizes](/prizes) page for details.
+* There are no monetary or physical prizes (yet?).
 
-* Of course, the winner also receives eternal glory in the eyes of the Open Source Music community
+* Of course, the winner receives eternal glory in the eyes of the Open Source Music community
   and the incredible feeling of achievement and creative satisfaction!
 
-* Also, the winner entry, and the second and third placements will be presented at the second
-  [Sonoj Convention](https://sonoj.org/) in Cologne on the weekend after the voting has finished
-  (27./28.10.2018)!
+* Also, the winner entry, and the second and third placements will be presented at the third
+  [Sonoj Convention](https://sonoj.org/) in Cologne on the weekend where the voting period ends
+  (26./27.10.2019)!
 
 * We will work with Open Source community sites to promote the contest as a whole and the winning
   entry in particular.
 
-* If you want to sponsor a prize, please get in [contact](mailto:nexus-challenge@osamc.de) with the
-  organizer of the competition. Please note that we can't ship physical prizes, so vouchers for
-  online (music) shops, trainings, mixing and mastering services, or services related to the
-  promotion of the competition entries or the contestants would probably work best. But we're open
-  to hear your ideas!
+* If you want to sponsor a prize, please [get in touch](mailto:fmchallenge@osamc.de) with the
+  organizer of the competition. Please note that the organizers can't ship physical prizes, so
+  shipping would have to be part of the sponsorship as well. We think that vouchers for online
+  (music/equipment) shops, trainings, mixing and mastering services, or services related to the
+  promotion of the competition entries or the contestants would probably work best. But we are open
+  to hearing your ideas!
