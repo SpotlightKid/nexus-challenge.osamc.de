@@ -20,7 +20,7 @@ What
    c) using only Open Source software [2] (exception: proprietary DAWs).
 
 2. Upload it to archive.org [3] under a Creative Commons license
-3: Submit [4] it into the competition.
+3. Submit [4] it into the competition.
 
 Before you enter the competition, be sure to read the detailed rules[5]!
 
@@ -41,9 +41,9 @@ production using Open Source software [6] is easy and free to everyone!
 Winning
 -------
 
-The winner of the competition is selected by *general vote* [7].
+The winner of the competition is selected by *general vote*.
 
-Voting starts on *October 19th, 2019* and is open for *seven days*.
+Voting [7] starts on *October 19th, 2019* and is open for *seven days*.
 The entry receiving the most points wins and will be presented at the
 third *Sonoj Convention* [8], which takes place on the weekend of
 *October 26th / 27th* in Cologne.
@@ -74,5 +74,5 @@ challenge@osamc.de
 [4] https://nexus-challenge.osamc.de/submit/
 [5] https://nexus-challenge.osamc.de/rules/
 [6] https://libremusicproduction.com/
+[7] https://nexus-challenge.osamc.de/vote/
 [8] https://sonoj.org/
-[9] https://nexus-challenge.osamc.de/vote/
