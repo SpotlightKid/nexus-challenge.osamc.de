@@ -37,43 +37,43 @@ represented by its member **Christopher Arndt**.
    yourself to the site and allow the organizers to contact you during the competition and for the
    announcement of the winners.
 
-2. Your audio track **MUST** be downloadable without access control and the audio file **MUST** be
+3. Your audio track **MUST** be downloadable without access control and the audio file **MUST** be
    **FLAC encoded** and **properly tagged** with (at least) **artist name**, **track title**,
    **year** (2019) and "Open Source Music Nexus Challenge" as the **album title**. The audio file
    **MUST** be **stereo** and have a sampling rate of **44100 Hz** and **16 bits** per sample.
 
-3. The length of your submitted audio file **MUST** be **no less than one (1:00) minute** and **no
+4. The length of your submitted audio file **MUST** be **no less than one (1:00) minute** and **no
    more than five (5:00) minutes**.
 
-4. Your audio track **MUST** be created specifically for this competition, not released elsewhere
+5. Your audio track **MUST** be created specifically for this competition, not released elsewhere
    before, and the composition **SHOULD** be a new one (we know we can't check this, but please be
    honest).
 
-5. You **MUST** license your audio track under a
+6. You **MUST** license your audio track under a
    [Creative Common license](https://creativecommons.org/choose/)
    ([CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) or more permissive).
 
-6. Your track **SHOULD** be a **musical piece** in the broadest sense (e.g. including ambient,
-    soundtrack, abstract music etc.) and **MAY** be in any genre you want.
+7. Your track **SHOULD** be a **musical piece** in the broadest sense (e.g. including ambient,
+   soundtrack, abstract music etc.) and **MAY** be in any genre you want.
 
-7. Your track **SHOULD** be **in the style of** a well-known artist or song, but not be a cover,
+8. Your track **SHOULD** be **in the style of** a well-known artist or song, but not be a cover,
    remix or direct copy. I.e. you **SHOULD NOT** copy any harmonic or melodic material of an
    existing song without alteration or giving it a new context and rather copy the structure and/or
    sonic landscape of your source. Think of your track as an **homage** or a musical
    **[pastiche](https://en.wikipedia.org/wiki/Pastiche)**.
 
-8. Your track **MUST** incorporate at least one recording of a physical sound source, which you
+9. Your track **MUST** incorporate at least one recording of a physical sound source, which you
    made yourself. This may be a recording of you playing an instrument, singing, or banging on
    your kitchen pots and tools, or a field recording of your environment, etc. In addition, you
    **MAY** use other, pre-recorded samples, for example for drums or sampled instruments, provided
    they are compatible with the license of your track as required by rule 6.
 
-9. You **MAY** only use Open Source software (see below under "Open Source Conformance") in the
-   creation process. This includes (but is not limited to) tasks such as recording, sequencing,
-   mixing, mastering and preparing the audio track for upload (e.g. encoding and tagging).
-   Absolutely no proprietary, non-Open Source plug-ins are allowed.
+10. You **MAY** only use Open Source software (see below under "Open Source Conformance") in the
+    creation process. This includes (but is not limited to) tasks such as recording, sequencing,
+    mixing, mastering and preparing the audio track for upload (e.g. encoding and tagging).
+    Absolutely no proprietary, non-Open Source plug-ins are allowed.
 
-10. The following exceptions to rule 9. are made:
+11. The following exceptions to rule 10. are granted:
 
     * You **MAY** use hardware devices to make digital recordings of physical audio sources or to
       transfer analog recordings into the computer (e.g. field recorders, smart phones, digital
@@ -83,15 +83,15 @@ represented by its member **Christopher Arndt**.
       products). But you **MAY NOT** use any of the included plugins, unless they are Open Source
       or are necessary for the signal flow (e.g. Send/Return plugins in Tracktion).
 
-11. When submitting your entry, you **MUST** list all plug-ins you used for creating your track and
+12. When submitting your entry, you **MUST** list all plug-ins you used for creating your track and
     also any other sequencing, recording and mastering software you used. The competition organizer
     **MAY** request access to our project files if there is a reasonable doubt that you followed
     the rules properly.
 
-12. To be eligible for winning, you **MUST** vote on the other submissions into the competition
+13. To be eligible for winning, you **MUST** vote on the other submissions into the competition
     (see below under "Voting Rules"). If you don't vote, your submission **will be disqualified**.
 
-13. You **SHOULD** make the patches you created for the synthesizer(s) and other plug-ins, which
+14. You **SHOULD** make the patches you created for the synthesizer(s) and other plug-ins, which
     you used for your track, available for download, preferably under a permissive license or
     public domain. Doing so *is not* a requirement for being eligible for winning the competition.
 
