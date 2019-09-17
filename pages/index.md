@@ -21,7 +21,7 @@
 **What:**
 
 1. Make a music track, adhering to the following rules:
-    1. The track should be *in-the-style-of* a well-known artist or song of your chosing
+    1. The track should be *in-the-style-of* a well-known artist or song of your choosing
        (but not a cover, remix or blatant copy).
     2. It must incorporate a recording of a physical sound source, which *you made yourself*
        (e.g. you playing an instrument or singing, or a field recording, etc.).
@@ -41,9 +41,9 @@ free to everyone!
 
 **Winning:** The winner of the competition is selected by **general vote**. [Voting](/vote/) starts
 on **October 19th, 2019** and is open for **seven days**. The entry receiving the most points wins
-and will be presented on at the third [Sonoj Convention](https://sonoj.org/), which takes place on
-the weekend of October 26th / 27th in Cologne. Second and third places will be awarded as well. We
-do not give out phisical prizes, but the winners will receive fame and glory :) and the community
+and will be presented at the third [Sonoj Convention](https://sonoj.org/), which takes place on the
+weekend of October 26th / 27th in Cologne. Second and third places will be awarded as well. We
+do not give out physical prizes, but the winners will receive fame and glory :) and the community
 as a whole also wins!
 
 Please share this announcement to all interested parties. If you wish to sponsor prizes for the
