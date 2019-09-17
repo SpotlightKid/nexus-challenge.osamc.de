@@ -14,7 +14,7 @@
 # [Open Source Audio Meeting Cologne](https://osamc.de/) <br />proudly presents:
 
 <!-- The **Open Source Music Nexus Challenge**! -->
-[![Open Source Music Nexus Challenge](/img/nexus-challenge-banner-880.jpg)](/img/nexus-challenge-banner.png)
+![Open Source Music Nexus Challenge](/img/nexus-challenge-banner-880.jpg)
 
 > *Let's make some awesome Open Source music!*
 
