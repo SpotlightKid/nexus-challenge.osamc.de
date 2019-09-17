@@ -20,30 +20,30 @@
 
 **What:**
 
-* Make a music track, adhering to the following rules:
-    * The track should be *in-the-style-of* a well-known artist or song of your chosing
-      (but not a cover, remix or blatant copy).
-    * It must incorporate a recording of a physical sound source, which *you made yourself*
-      (e.g. you playing and instrument or singing, or a field recording, etc.).
-    * You may use *only Open Source software* (proprietary DAWs are allowed as an exception).
-* [Upload](https://archive.org/create/) it to archive.org under a Creative Commons license, and
-* [Submit it](/submit/) into the competition.
+1. Make a music track, adhering to the following rules:
+    1. The track should be *in-the-style-of* a well-known artist or song of your chosing
+       (but not a cover, remix or blatant copy).
+    2. It must incorporate a recording of a physical sound source, which *you made yourself*
+       (e.g. you playing an instrument or singing, or a field recording, etc.).
+    3. You may use *only Open Source software* (proprietary DAWs are allowed as an exception).
+2. [Upload](https://archive.org/create/) it to archive.org under a Creative Commons license, and
+3. [Submit it](/submit/) into the competition.
 
-Before you enter the competition, be sure to check out [the detailed rules](/rules/)!
+**Before you enter the competition, be sure to check out [the detailed rules](/rules/)!**
 
 **When:** The competition starts on **September 19th, 2019** and runs for one month until the end
 of **October 18th, 2019**.
 
-**Who:** **Everybody** (i.e. every natural person) can enter the competition. All selected
-synthesizers are [Free Software](https://www.gnu.org/philosophy/free-sw.html) and getting started
-with [music production using Open Source software](https://libremusicproduction.com/) is easy and
+**Who:** **Everybody** (i.e. every natural person) can enter the competition. The tools to use are
+[Free Software](https://www.gnu.org/philosophy/free-sw.html) and getting started with
+[music production using Open Source software](https://libremusicproduction.com/) is easy and
 free to everyone!
 
 **Winning:** The winner of the competition is selected by **general vote**. [Voting](/vote/) starts
 on **October 19th, 2019** and is open for **seven days**. The entry receiving the most points wins
 and will be presented on at the third [Sonoj Convention](https://sonoj.org/), which takes place on
 the weekend of October 26th / 27th in Cologne. Second and third places will be awarded as well. We
-do not give out phisical prizes, but the winners will receive fame and glory :), and the community
+do not give out phisical prizes, but the winners will receive fame and glory :) and the community
 as a whole also wins!
 
 Please share this announcement to all interested parties. If you wish to sponsor prizes for the
@@ -77,7 +77,7 @@ Open Source software [synthesizers](http://linuxsynths.com/) and
 * Of course, the winner receives eternal glory in the eyes of the Open Source Music community
   and the incredible feeling of achievement and creative satisfaction!
 
-* Also, the winner entry, and the second and third placements will be presented at the third
+* Also, the winning entry, and the second and third placements will be presented at the third
   [Sonoj Convention](https://sonoj.org/) in Cologne on the weekend where the voting period ends
   (26./27.10.2019)!
 
