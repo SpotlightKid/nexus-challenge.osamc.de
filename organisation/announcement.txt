@@ -44,17 +44,19 @@ Winning
 The winner of the competition is selected by *general vote* [7].
 
 Voting starts on *October 19th, 2019* and is open for *seven days*.
-The entry receiving the most points wins and will be presented at the third
-*Sonoj Convention* [8], which takes place on the weekend of *October 26th /
-27th* in Cologne.
+The entry receiving the most points wins and will be presented at the
+third *Sonoj Convention* [8], which takes place on the weekend of
+*October 26th / 27th* in Cologne.
 
 Second and third places will be awarded as well. We do not give out
 physical prizes, but the winners will receive fame and glory :) and the
 community as a whole also wins!
 
+***
 
-Please share this announcement with all interested parties. If you wish to
-sponsor prizes for the competition winners, please contact the organizer!
+Please share this announcement with all interested parties. If you wish
+to sponsor prizes for the competition winners, please contact the
+organizer!
 
 
 *Let's make some awesome Open Source Music!*
@@ -70,7 +72,7 @@ challenge@osamc.de
 [2] https://www.gnu.org/philosophy/free-sw.html
 [3] https://archive.org/create/
 [4] https://nexus-challenge.osamc.de/submit/
-[5] https://fmchallenge.osamc.de/rules/
+[5] https://nexus-challenge.osamc.de/rules/
 [6] https://libremusicproduction.com/
 [8] https://sonoj.org/
-[9] https://fmchallenge.osamc.de/vote/
+[9] https://nexus-challenge.osamc.de/vote/
