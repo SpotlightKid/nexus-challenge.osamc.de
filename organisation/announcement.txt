@@ -1,67 +1,76 @@
-Subject: [ANN] Open Source Music FM Synthesizer Challenge starts September 15th, 2018
+Subject: [ANN] Open Source Music Nexus Challenge starts September 19th, 2019
 
 
-Calling out to all musicians and Open Source aficionados!
-
+From the organizers of the wonderful FM Challenge of 2018,
 Open Source Audio Meeting Cologne [1] proudly presents:
 
-The OPEN SOURCE MUSIC FM SYNTHESIZER CHALLENGE
 
-    https://fmchallenge.osamc.de/
+The OPEN SOURCE MUSIC NEXUS CHALLENGE
 
-What:
+    https://nexus-challenge.osamc.de/
 
-Install one or several of the Open Source FM Synthesizers we selected
-[2], make an awesome track using only these synthesizers as sound
-sources, upload [3] it to archive.org under a Creative Commons license
-and submit it [4] into the competition.
 
-When:
+What
+----
 
-The competition starts on *September 15th, 2018* and runs for one month
-until the end of *October 14th, 2018*.
+1. Make a music track:
 
-Who:
+   a) "in-the-style-of" a well-known artist or song of your choosing,
+   b) using a recording of a physical sound source, made by yourself,
+   c) using only Open Source software [2] (exception: proprietary DAWs).
 
-*Everybody* (i.e. every natural person) can enter the competition. All
-selected synthesizers are Free Software [5] and getting started with
-music production using Open Source software [6] is easy and free to
-everyone!
+2. Upload it to archive.org [3] under a Creative Commons license
+3: Submit [4] it into the competition.
 
-Winning:
+Before you enter the competition, be sure to read the detailed rules[5]!
 
-The winner of the competition is selected by *public vote* [7].
+When
+----
 
-Voting starts on *October 15th, 2018* and is open for *ten days*. The
-entry receiving the most points wins and will be presented at the second
-*Sonoj Convention* [8] in Cologne on the weekend of October 27th/28th.
-Second and third places will be awarded as well.
+The competition starts on *September 19th, 2019* and runs for one month
+until the end of *October 18th, 2019*.
 
-The winners will only receive fame and glory, but the community as a
-whole also wins!
+Who
+---
 
-Before you enter the competition, be sure to check out the detailed
-rules [9]!
+*Everybody* (i.e. every natural person) can enter the competition.
 
-Please share this announcement to all interested parties. If you wish to
+The tools to use are Free Software and getting started with music
+production using Open Source software [6] is easy and free to everyone!
+
+Winning
+-------
+
+The winner of the competition is selected by *general vote* [7].
+
+Voting starts on *October 19th, 2019* and is open for *seven days*.
+The entry receiving the most points wins and will be presented at the third
+*Sonoj Convention* [8], which takes place on the weekend of *October 26th /
+27th* in Cologne.
+
+Second and third places will be awarded as well. We do not give out
+physical prizes, but the winners will receive fame and glory :) and the
+community as a whole also wins!
+
+
+Please share this announcement with all interested parties. If you wish to
 sponsor prizes for the competition winners, please contact the organizer!
 
 
-*Let's make some awesome music using Open Source FM Synthesizers!*
+*Let's make some awesome Open Source Music!*
 
 
 Christopher Arndt
 Open Source Audio Meeting Cologne
-https://fmchallenge.osamc.de/
-fmchallenge@osamc.de
+https://nexus-challenge.osamc.de/
+challenge@osamc.de
 
 
 [1] https://osamc.de/
-[2] https://fmchallenge.osamc.de/fmsynths/
+[2] https://www.gnu.org/philosophy/free-sw.html
 [3] https://archive.org/create/
-[4] https://fmchallenge.osamc.de/submit/
-[5] https://www.gnu.org/philosophy/free-sw.html
+[4] https://nexus-challenge.osamc.de/submit/
+[5] https://fmchallenge.osamc.de/rules/
 [6] https://libremusicproduction.com/
-[7] https://fmchallenge.osamc.de/vote/
 [8] https://sonoj.org/
-[9] https://fmchallenge.osamc.de/rules/
+[9] https://fmchallenge.osamc.de/vote/
