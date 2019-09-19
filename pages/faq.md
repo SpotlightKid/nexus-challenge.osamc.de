@@ -16,8 +16,19 @@ interesting for all participants.
 
 **Q:** Why is it called the "Nexus Challenge"?
 
-**A:** Because it is the year 2019 and the task is to *replicate* something.
+**A:** Because it is [the year 2019](https://youtu.be/-fu7jN2_2pE?t=179) and the task is to
+*replicate* something.
 
+---
 
+**Q:** Are collaborations or group entries or contributions from others allowed?
+
+**A:** Yes, collaborations with and contributions from other people are allowed. Collaborators
+and / or contributors must be specified in the notes when submitting the entry.
+
+You can give a group name as the artists name when submitting your entry or the name of the main
+entrant.
+
+---
 
 *We will add to more questions and answers to this section when required. Please check back often!*
