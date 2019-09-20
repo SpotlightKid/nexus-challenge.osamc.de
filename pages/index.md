@@ -56,7 +56,7 @@ competition winners, please [contact](mailto:challenge@osamc.de) the organizers!
 
 * To promote the use of Open Source software for music production and composition and the awesome
 Open Source software [synthesizers](http://linuxsynths.com/) and
-[effect](https://wiki.thingsandstuff.org/Audio#Effects)
+[effect](https://wiki.thingsandstuff.org/Effects)
 [plugins](http://linux-sound.org/linux-vst-plugins.html) available for everyone.
 
 * To encourage learning of the principles and application of sound design, recording and mixing
