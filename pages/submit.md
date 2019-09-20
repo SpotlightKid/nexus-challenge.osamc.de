@@ -12,7 +12,7 @@
 
 So you want to enter the competition? That's awesome!<br />
 However, submitting your entry to the competition will only be possible from **19.09.2019**
-until the deadline on **18.10.2019 23:59:59 UTC** via this page.
+until the deadline on **19.10.2019 23:59:59 UTC** via this page.
 
 *Please check back then!*
 

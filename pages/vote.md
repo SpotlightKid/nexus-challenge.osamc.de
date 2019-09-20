@@ -11,7 +11,7 @@
 -->
 
 Voting will be possible when the submission deadline for the competition has passed on
-**18.10.2019 23:59:59 UTC**. Competition entries will appear on this page during the competition
+**19.10.2019 23:59:59 UTC**. Competition entries will appear on this page during the competition
 as soon as they are submitted and the submisison has been checked by the organizer.
 
 *So, please do come back later!*

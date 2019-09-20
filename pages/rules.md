@@ -2,6 +2,7 @@
 .. title: The Competition Rules
 .. slug: rules
 .. date: 2019-09-16 23:30:39 UTC+02:00
+.. updated: 2019-09-16 22:54:24 UTC+02:00
 .. tags:
 .. category:
 .. link:
@@ -25,12 +26,15 @@ represented by its member **Christopher Arndt**.
 
 [TOC]
 
+**Update 2019-09-20:** changed submission deadline to be the end of 2019-10-19.<br />
+
 # A. Submission Rules
 
 1. To enter the competition you **MUST** create an audio track (aka a "piece"), upload the audio
    file to [archive.org](https://archive.org/create/) and submit the link to the track via the
-   submission form ([https://nexus-challenge.osamc.de/submit/](/submit/)) between the start of the competition (**19.09.2019 00:00:00 UTC**) and before the dead line for submission
-   (**18.10.2019 23:59:59 UTC**).
+   submission form ([https://nexus-challenge.osamc.de/submit/](/submit/)) between the start of the
+   competition (**19.09.2019 00:00:00 UTC**) and before the dead line for submission
+   (**19.10.2019 23:59:59 UTC**).
 
 2. Every person can enter the competition with **one entry** only. You may submit your entry under
    a pseudonym or using your real name, but you must supply a valid email address to identify

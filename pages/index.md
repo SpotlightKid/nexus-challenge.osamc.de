@@ -2,6 +2,7 @@
 .. title: The Challenge
 .. slug: index
 .. date: 2019-09-16 21:13:45 UTC+02:00
+.. updated: 2019-09-20 22:53:25 UTC+02:00
 .. tags:
 .. category:
 .. link:
@@ -32,7 +33,7 @@
 **Before you enter the competition, be sure to check out [the detailed rules](/rules/)!**
 
 **When:** The competition starts on **September 19th, 2019** and runs for one month until the end
-of **October 18th, 2019**.
+of **October 19th, 2019**.
 
 **Who:** **Everybody** (i.e. every natural person) can enter the competition. The tools to use are
 [Free Software](https://www.gnu.org/philosophy/free-sw.html) and getting started with
@@ -40,7 +41,7 @@ of **October 18th, 2019**.
 free to everyone!
 
 **Winning:** The winner of the competition is selected by **general vote**. [Voting](/vote/) starts
-on **October 19th, 2019** and is open for **seven days**. The entry receiving the most points wins
+on **October 20th, 2019** and is open for **seven days**. The entry receiving the most points wins
 and will be presented at the third [Sonoj Convention](https://sonoj.org/), which takes place on the
 weekend of October 26th / 27th in Cologne. Second and third places will be awarded as well. We
 do not give out physical prizes, but the winners will receive fame and glory :) and the community
