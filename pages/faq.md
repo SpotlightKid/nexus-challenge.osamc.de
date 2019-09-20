@@ -2,6 +2,7 @@
 .. title: Frequently Asked Questions
 .. slug: faq
 .. date: 2019-09-16 23:46:51 UTC+02:00
+.. updated: 2019-09-19 14:59:40 UTC+02:00
 .. tags:
 .. category:
 .. link:
