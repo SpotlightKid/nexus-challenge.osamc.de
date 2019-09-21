@@ -2,7 +2,7 @@
 .. title: Frequently Asked Questions
 .. slug: faq
 .. date: 2019-09-16 23:46:51 UTC+02:00
-.. updated: 2019-09-19 14:59:40 UTC+02:00
+.. updated: 2019-09-21 14:17:20 UTC+02:00
 .. tags:
 .. category:
 .. link:
@@ -29,6 +29,16 @@ and / or contributors must be specified in the notes when submitting the entry.
 
 You can give a group name as the artists name when submitting your entry or the name of the main
 entrant.
+
+---
+
+**Q:** Is there a discussion forum where I can post questions about the competition or share tips
+and ideas with other participants?
+
+**A:** Yes, we have created a general discussion thread for the Nexus Challenge on the
+[linuxmusicians.com](https://linuxmusiscians.com) forum. Please follow this link:
+
+[Open Source Music Nexus Challenge Discussion](https://linuxmusicians.com/viewtopic.php?f=40&t=20495)
 
 ---
 
