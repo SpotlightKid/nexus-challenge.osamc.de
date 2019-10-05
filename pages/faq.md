@@ -36,10 +36,9 @@ entrant.
 and ideas with other participants?
 
 **A:** Yes, we have created a general discussion thread for the Nexus Challenge on the
-[linuxmusicians.com](https://linuxmusiscians.com) forum. Please follow this link:
+[linuxmusicians.com](https://linuxmusicians.com) forum. Please follow this link:
 
 [Open Source Music Nexus Challenge Discussion](https://linuxmusicians.com/viewtopic.php?f=40&t=20495)
 
 ---
-
 *We will add to more questions and answers to this section when required. Please check back often!*
