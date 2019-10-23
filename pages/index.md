@@ -44,8 +44,9 @@ free to everyone!
 on **October 20th, 2019** and is open for **seven days**. The entry receiving the most points wins
 and will be presented at the third [Sonoj Convention](https://sonoj.org/), which takes place on the
 weekend of October 26th / 27th in Cologne. Second and third places will be awarded as well. We
-do not give out physical prizes, but the winners will receive fame and glory :) and the community
-as a whole also wins!
+do not give out physical prizes, but the winners will get [free mastering](/prizes) of one or more
+of their songs and, of course, will receive fame and glory :) and the community as a whole also
+wins!
 
 Please share this announcement to all interested parties. If you wish to sponsor prizes for the
 competition winners, please [contact](mailto:challenge@osamc.de) the organizers!
@@ -73,7 +74,10 @@ Open Source software [synthesizers](http://linuxsynths.com/) and
 
 # Prizes
 
-* There are no monetary or physical prizes (yet?).
+* The winners of the first, second and third prize get a free mastering of one or more of their
+  songs. For details see the [prizes page](prizes).
+
+* There are no monetary or physical prizes.
 
 * Of course, the winner receives eternal glory in the eyes of the Open Source Music community
   and the incredible feeling of achievement and creative satisfaction!
