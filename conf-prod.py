@@ -9,6 +9,7 @@ SITE_URL = "https://nexus-challenge.osamc.de/"
 DEPLOY_COMMANDS = {
     'default': [
         "rsync -rltDv --update --checksum --delete output/* "
+        "--exclude 'output/downloads/Open Source Music Nexus Challenge 2019.zip' "
         "chris@chrisarndt.de:/home/www/nexus-challenge.osamc.de/htdocs",
     ]
 }

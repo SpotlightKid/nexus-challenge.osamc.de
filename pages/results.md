@@ -14,12 +14,11 @@
 
 The first place in the competition goes to:
 
-<p style="text-align: center; font-size: x-large;"><strong>“Another Day”</strong> by <em>Spotlight Kid</em></p>
+<p style="text-align: center; font-size: x-large;"><a href="/view/5"><strong>“Another Day”</strong> by <em>Spotlight Kid</em></a></p>
 
 # Results
 
-There are **8 competition entries** and **26 users** have voted on
-them.
+There are **8 competition entries** and **26 users** have voted on them.
 
 You can listen to [all entries here](/list).
 
@@ -27,6 +26,11 @@ You can also download an archive of all tracks in FLAC format,
 including a playlist and meta data for all tracks:
 
 [Open Source Music Nexus Challenge 2019.zip](/downloads/Open Source Music Nexus Challenge 2019.zip) (151 Mb)
+
+The challenge results were presented at the [Sonoj Coonvention 2019](https://sonoj.org)
+in Cologne. You can download a PDF file of the [slides of the
+presentation](/downloads/presentation-nexus-challenge.pdf) or the
+[OpenDocument Presentation (ODP)](/downloads/presentation-nexus-challenge.odp).
 
 <!--
 Position,Artists,Title,Score
