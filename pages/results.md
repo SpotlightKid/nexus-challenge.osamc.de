@@ -27,7 +27,7 @@ including a playlist and meta data for all tracks:
 
 [Open Source Music Nexus Challenge 2019.zip](/downloads/Open Source Music Nexus Challenge 2019.zip) (151 Mb)
 
-The challenge results were presented at the [Sonoj Coonvention 2019](https://sonoj.org)
+The challenge results were presented at the [Sonoj Convention 2019](https://sonoj.org)
 in Cologne. You can download a PDF file of the [slides of the
 presentation](/downloads/presentation-nexus-challenge.pdf) or the
 [OpenDocument Presentation (ODP)](/downloads/presentation-nexus-challenge.odp).
