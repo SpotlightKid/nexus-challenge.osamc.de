@@ -25,7 +25,7 @@ SITE_URL = "https://nexus-challenge.osamc.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://nexus-challenge.osamc.de/"
-BLOG_EMAIL = "nexus-challenge@osamc.de"
+BLOG_EMAIL = "challenge@osamc.de"
 BLOG_DESCRIPTION = "Let's create awesome music with Open Source!"  # (translatable)
 # This is the index page for the blog posts, not the main start page of the site!
 INDEX_PATH = "blog"
