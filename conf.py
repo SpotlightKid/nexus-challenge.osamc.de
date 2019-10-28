@@ -1079,6 +1079,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 SOCIAL_BUTTONS_CODE = (
     'https://twitter.com/osamCologne',
+    'https://github.com/SpotlightKid/nexus-challenge-webapp',
 )
 
 # Show link to source for the posts?
