@@ -10,7 +10,7 @@ cloudpickle==1.2.2
 docutils==0.15.2
 doit==0.31.1
 idna==2.8
-Jinja2==2.10.1
+Jinja2==2.11.3
 Logbook==1.5.2
 lxml==4.6.2
 Mako==1.1.0
