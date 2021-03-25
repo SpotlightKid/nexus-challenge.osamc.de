@@ -12,7 +12,7 @@ doit==0.31.1
 idna==2.8
 Jinja2==2.11.3
 Logbook==1.5.2
-lxml==4.6.2
+lxml==4.6.3
 Mako==1.1.0
 Markdown<3.0.0
 MarkupSafe==1.1.1
