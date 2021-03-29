@@ -22,7 +22,7 @@ Nikola==8.0.2
 pathtools==0.1.2
 piexif==1.1.3
 Pillow>=7.1.0
-Pygments==2.4.2
+Pygments==2.7.4
 pyinotify==0.9.6
 PyRSS2Gen==1.1
 python-dateutil==2.8.0
